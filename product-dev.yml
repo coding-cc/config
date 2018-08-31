@@ -8,5 +8,5 @@ spring:
       password: root
       url: jdbc:mysql://127.0.0.1/sell?characterEncoding=utf-8&useSSL=false
 girl:
- age: 18.5
+ age: 20
  cup: E
