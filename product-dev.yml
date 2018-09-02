@@ -1,4 +1,4 @@
-env: dev1q1
+env: dev1q
 spring:
   application:
     name: PRODUCT
